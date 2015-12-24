@@ -24,7 +24,6 @@ var byteArray0 [0]byte
 var byteArray3 [3]byte
 var byteArray56 [56]byte
 var byteArray112 [112]byte
-var byteArray97 [125000]byte
 
 func TestSHA224(t *testing.T) {
 
